@@ -1,4 +1,3 @@
-Here's a full professional README.md you can use for your file-splitter project, including a system flow diagram, architecture breakdown, tech stack, and detailed setup instructions. You can copy-paste this into your /file-splitter-project/README.md file.
 
 ---
 
@@ -176,5 +175,3 @@ flutter run -d chrome
 Have ideas or want to contribute? Open issues or PRs on the repo or contact the maintainer.
 
 ---
-
-Let me know if you want this in plain text format or I can create a GitHub-ready file scaffold with prefilled main.go and app.py files too.
